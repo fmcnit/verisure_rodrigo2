@@ -16,8 +16,10 @@ export const metadata: Metadata = {
   title: "Especialista Verisure",
   description: "Especialista Rodrigo Hart da Verisure, em que posso ajudar?",
   openGraph: {
+    type: "website",
     title: "Verisure Especialista Rodrigo",
     description: "Bem-vindo a Verisure - Especialista Rodrigo",
+    images: [{ url: "https://share.google/CRXn4X25rn9CXJzzi" }],
   },
 };
 
